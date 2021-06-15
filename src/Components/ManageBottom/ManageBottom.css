@@ -1,0 +1,60 @@
+.managebtmdiv{
+    width: 85%;
+   align-items: center;
+    display: flex;
+}
+.imgdiv{
+    padding-left: 20px;
+    padding-right: 10px;
+    margin-top: 2px;    
+}
+.space{
+    width: 10px;
+}
+.adddiv{
+    background-color: #6f8ae8;
+    border-radius: 5px;
+    height: 25px;
+    width: 90px;
+    border: 1px solid black;
+    padding-top: 7px;
+    text-align: center;
+    cursor: pointer;
+    
+}
+.linkdiv{
+  width: 90%;
+    height: 40px;
+    background-color: #f5f6fa;
+    margin-right: 5%;
+    display: flex;
+    align-items: center;
+}
+
+.deletediv{
+    background-color: #e85c5d;
+    border-radius: 5px;
+    height: 35px;
+    width: 40px;
+    padding-top: 7px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.innerlink{
+    width: 790px;
+    text-overflow: ellipsis;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+}
+.innerimg{
+    padding-right: 5px;
+    margin-left: 5px;
+    
+}
+.innerlink p{
+    white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

@@ -1,0 +1,38 @@
+.topsidecomp{
+    display: flex;
+    width: 99%;
+    align-items: center;
+    margin-top: 35px;
+}
+.topsidediv1{
+    width: 40%; 
+    padding-left: 29px;
+    line-height: 1px;
+}
+.topsidediv2{
+    width: 60%;
+    padding-left: 10px;
+    text-align: right;
+    padding-right: 50px;
+}
+.midsidecomp{
+    width: 90%;
+    margin: 0 auto;
+margin-bottom: 50px;
+margin-top: 50px;
+    border-radius: 5px;
+}
+
+.btmsidecomp{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 10px;
+    
+}
+.sidepagecompholderhead{
+    width: 19%;
+    padding-left: 5%;
+    margin-left: 8px;
+}

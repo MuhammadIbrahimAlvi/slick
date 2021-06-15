@@ -1,0 +1,32 @@
+.manageprodtop{
+    height: 25px;
+    width: 932px;
+    margin: 0 auto;
+    background-color: #F5F6FA;
+    display: flex;
+    justify-content: space-between;
+}
+.div11{
+    flex-grow: 2;
+ 
+    text-align: center;
+    
+}
+.div22{
+    flex-grow: 2;
+   
+}
+.div33{
+    flex-grow: 2;
+   
+}
+.div44{
+    flex-grow: 1;
+}
+
+.manageprodbtm{
+    width: 932px;
+    margin: 0 auto;
+   
+    margin-top: 10px;
+}

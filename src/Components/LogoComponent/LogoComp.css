@@ -1,0 +1,20 @@
+.logocompdiv{
+     font-size: 30px;
+     display: flex;
+     font-weight: 1000px;
+     justify-content: center;
+     align-items: center;
+     padding: 10px 0;
+     font-family: 'Poppins';
+
+}
+.logocompimg{
+    background-color:#6F8AE8;
+    height: 35px;
+    width: 35px;
+    border-radius: 30px;
+}
+.margindiv{
+    width: 5px;
+    margin-left: 5px;
+}

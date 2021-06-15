@@ -1,0 +1,20 @@
+.managebannerclass{
+    width: 90%;
+    margin: 0 auto;
+    background-color: #ffffff;
+    height: 80vh;
+    margin-bottom: 50px;
+    border-radius: 5px;
+    
+}
+.managebannerbtm{
+  
+height: 75%;
+overflow-y: scroll;
+    width: 98%;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+.management-heading{
+    margin-left: 5%;
+}

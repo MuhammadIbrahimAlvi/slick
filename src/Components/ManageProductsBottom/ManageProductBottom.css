@@ -1,0 +1,59 @@
+.manageproductsbtm{
+    width: 100%;
+   align-items: center;
+    margin-top: 10px;
+    display: flex;
+}
+.div13{
+    
+    flex-grow: 0.97;
+  align-items: center;
+  display: flex;
+  align-items: center;
+
+}
+
+.div13 img{
+    padding-left: 5px;
+    width: 64px;
+    height: 64px;
+    border-radius: 7px;
+    padding-right: 18%;
+}
+.div23{
+    
+    flex-grow: 1;
+  
+}
+.manage-product-coin{
+    display: flex;
+    align-items: center;
+    /* border: 1 solid black; */
+    flex-grow: 2;
+    padding-left:7px
+  
+}
+.manage-product-btns{
+  display: flex;
+
+  margin-right:10px;
+}
+.add-div{
+    background-color: #6f8ae8;
+    border-radius: 5px;
+    height: 35px;
+ width: 40px;
+    padding-top: 7px;
+    text-align: center;
+    cursor: pointer;
+    
+}
+.delete-div{
+    background-color: #e85c5d;
+    border-radius: 5px;
+    height: 35px;
+    width: 40px;
+    padding-top: 7px;
+    text-align: center;
+    cursor: pointer;
+}

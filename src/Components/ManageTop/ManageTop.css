@@ -1,0 +1,48 @@
+.managebannertop{
+    display: flex;
+    width: 95%;
+    margin: 0 auto;
+    align-items: center;
+    padding: 10px;
+}
+.managebannerdiv1{
+    text-decoration: none;
+    width: 15%;
+    height: 100%;
+    margin: 10px;
+    cursor: pointer;
+    text-align: center;
+}
+.managebannerdiv1:hover{
+    color: #6f8ae8;
+}
+.managebannerdiv2:hover{
+    color: #6f8ae8;
+}
+.managebannerdiv2{
+  text-decoration: none;
+    width: 15%;
+    height: 100%;
+    margin: 10px;
+    cursor: pointer;
+    text-align: center;
+}
+.managebannerdiv3{
+  
+    width: 70%;
+    justify-content: right;
+    text-align: right;
+    float: right;
+}
+.btn{
+    background-color: #6f8ae8;
+    border: 4px;
+}
+.line{
+    width: 19px;
+    height: 4px;
+    border-radius: 4px;
+    margin: 0 auto;
+    margin-top: 5px;
+    background-color: #6f8ae8;
+}

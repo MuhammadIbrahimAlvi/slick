@@ -1,0 +1,52 @@
+.modal-container{
+    background-color: rgba(	174	,176,184,0.5);
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 0;
+}
+.modal-field{
+    width: 50%;
+    background-color: #ffffff;
+    border-radius: 9px;
+    padding: 15px;
+}
+.banner-header{
+    display: flex;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.banner-header button{
+    border-radius: 10px;
+    
+}
+.field-container{
+  
+    width: 90%;
+    margin: 0 auto;
+}
+.field-container input{
+    padding-left: 10px;
+    width: 90%;
+    height: 30px;
+}
+.field-button{
+    margin: 0 auto;
+    width: 10%;
+    margin-top: 5px;
+}
+.product-inner-div{
+    margin-left: 35px;
+    padding-bottom: 20px;
+}
+.product-inner-div input{
+    width: 90%;
+    height: 30px;
+    padding-left: 10px;
+}
